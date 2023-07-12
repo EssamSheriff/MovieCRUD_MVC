@@ -27,12 +27,13 @@ Movies MVC application is a tutorial about .net 5 MVC which manages movies, you 
 2) Microsoft SQL Server Management Studio (SSMS)
 
 ## Run and Screenshots
-![Screenshot (19)](https://github.com/EssamSheriff/MovieCRUD_MVC/assets/72581790/525bc95e-0119-4d04-a092-0663b18758b0)
-![Screenshot (20)](https://github.com/EssamSheriff/MovieCRUD_MVC/assets/72581790/ffd00191-83b9-41d4-841a-e954bd68c8f5)
-![Screenshot (21)](https://github.com/EssamSheriff/MovieCRUD_MVC/assets/72581790/f856dc99-71cd-4ab8-b2ba-6eae65d1dbc6)
-![Screenshot (22)](https://github.com/EssamSheriff/MovieCRUD_MVC/assets/72581790/a26f9a8a-eaa7-4272-84ff-457aa1e4a34c)
-![Screenshot (23)](https://github.com/EssamSheriff/MovieCRUD_MVC/assets/72581790/f0e4c00f-9c4b-42d1-b2a4-f02dce2eeda0)
-![Screenshot (24)](https://github.com/EssamSheriff/MovieCRUD_MVC/assets/72581790/5f85570c-8266-444f-a2bc-c5fa07b84134)
+
+![Screenshot (19)](https://github.com/EssamSheriff/MovieCRUD_MVC/assets/72581790/d42df1c8-5411-437a-907e-28c5fa4fb745)
+![Uploading Screenshot (20).png…]()
+![Uploading Screenshot (21).png…]()
+![Uploading Screenshot (22).png…]()
+![Uploading Screenshot (23).png…]()
+![Screenshot (24)](https://github.com/EssamSheriff/MovieCRUD_MVC/assets/72581790/740909d0-91f0-4b98-8bca-cdc419fc00f3)
 
 
 

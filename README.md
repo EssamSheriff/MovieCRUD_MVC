@@ -1,7 +1,7 @@
 # Movie CRUD MVC Application
 
 ## Introduction
-Movies MVC application is a tutorial about .net 5 MVC which manages movies, you can create or delete or update movies easily and handle the movie poster, and can also manage Genre Table.
+Movies MVC application is a tutorial about .net 5 MVC which manages movies, You can create, delete, or update movies easily and handle the movie poster, and can also manage Genre Table.
 
 ## Technologies
 1) .net 5
